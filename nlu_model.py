@@ -20,6 +20,7 @@ def train(data, config, model_dir):
     trainer = Trainer(configuration)
     trainer.train(training_data)
     model_directory = trainer.persist(model_dir, fixed_model_name='chat')
+    print('model_directory:{}'.format(model_directory))
 
 
 def run():
