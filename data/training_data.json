@@ -7,6 +7,11 @@
         "entities": []
       },
       {
+        "text": "hi",
+        "intent": "greet",
+        "entities": []
+      },
+      {
         "text": "I want to order large pizza",
         "intent": "order_pizza",
         "entities": [
