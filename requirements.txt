@@ -90,7 +90,7 @@ Pygments==2.4.2
 pygraphviz==1.5
 PyHamcrest==1.9.0
 PyInquirer==1.0.3
-PyJWT==1.7.1
+PyJWT==2.4.0
 pykwalify==1.6.0
 pymongo==3.8.0
 pyparsing==2.4.0
